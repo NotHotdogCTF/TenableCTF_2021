@@ -6,4 +6,4 @@ Our team (NotHotdog) placed 297th with 1575 points
 
 We solved 36 Challenges in total (6 Misc, 14 Web, 1 Reverse Engineering, 6 Code, 1 Tenable, 2 Crypto, 3 Stego, 3 Forensics)
 
-Members participating in this event: rinkerm, jloung102
+Members participating in this event: rinkerm, jluong102
