@@ -1,0 +1,1 @@
+flag{wtf_is_brainfuck}
